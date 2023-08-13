@@ -1,56 +1,40 @@
-#
+# Web Development Portfolio - Cyril John De Leon
 
-This project was created with `create-uplift-project`
+Welcome to my Web Development Portfolio! This portfolio showcases my journey as a Fullstack Web Developer.
 
-## Requirements
+## Table of Contents
 
-- The requirements of this Portfolio Project is to create html and css.
+- [Description](#description)
+- [About](#about)
+- [Skills](#skills)
+- [Works](#works)
+- [Contact](#contact)
 
-## Installation
+## Description
 
-Install the dependencies by running:
+This portfolio website introduces me, Cyril John De Leon, as a Fullstack Web Developer. It's designed to demonstrate my skills, experiences, and projects within the field of web development.
 
-```bash
-npm install
-```
+## About
 
-## Development
+The "About" section gives a brief overview of who I am and my expertise. It highlights my capabilities in creating interactive and responsive web designs. It also includes some fun facts about me, like being a fan of rock music.
 
-After the [installation](#installation), you can run
+## Skills
 
-```bash
-npm run dev
-```
+In the "Skills" section, you'll find a list of technologies I'm proficient in, including HTML, CSS, JavaScript, Git, Python, Node.js, and databases. These skills enable me to build engaging and functional web applications.
 
-This will run the app in the development mode.
+## Works
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The "Works" section showcases a couple of my projects. It includes a simple calculator and a snake game, both built using JavaScript. These projects highlight my ability to create interactive applications and implement essential programming concepts.
 
-## Build
+## Contact
 
-This will build the app for production in `dist` folder.\
-It correctly bundles your project in product mode, optimizes the build for the best performance.
+The "Contact" section provides a way for visitors to get in touch with me. It features a contact form where users can submit their name, email, and message. Additionally, I've included a Facebook Messenger icon for direct communication.
 
-```bash
-npm run build
-```
+Feel free to explore this portfolio and get in touch with me if you're interested in collaborating or have any questions!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## TECHNOLOGIES USED
+HTML
 
-## lint
+CSS
 
-This will check any errors or warnings in your codes:
 
-```bash
-npm run lint
-```
-
-Some codes can automatically be fixed by
-
-```bash
-npm run lint:fix
-```
-
-For more information, check [ESLint documentation](https://eslint.org/)
