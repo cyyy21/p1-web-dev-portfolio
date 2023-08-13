@@ -20,7 +20,7 @@ The "About" section gives a brief overview of who I am and my expertise. It high
 
 ## Works
 
-The "Works" section showcases a couple of my projects. It includes a simple calculator and a snake game (dummy project ), calculator built using JavaScript. These projects highlight my ability to create interactive applications and implement essential programming concepts.
+The "Works" section showcases a couple of my projects. It includes a dummy project.
 
 ## Contact
 
