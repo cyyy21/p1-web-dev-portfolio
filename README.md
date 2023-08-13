@@ -6,7 +6,6 @@ Welcome to my Web Development Portfolio! This portfolio showcases my journey as 
 
 - [Description](#description)
 - [About](#about)
-- [Skills](#skills)
 - [Works](#works)
 - [Contact](#contact)
 
@@ -18,13 +17,10 @@ This portfolio website introduces me, Cyril John De Leon, as a Fullstack Web Dev
 
 The "About" section gives a brief overview of who I am and my expertise. It highlights my capabilities in creating interactive and responsive web designs. It also includes some fun facts about me, like being a fan of rock music.
 
-## Skills
-
-In the "Skills" section, you'll find a list of technologies I'm proficient in, including HTML, CSS, JavaScript, Git, Python, Node.js, and databases. These skills enable me to build engaging and functional web applications.
 
 ## Works
 
-The "Works" section showcases a couple of my projects. It includes a simple calculator and a snake game, both built using JavaScript. These projects highlight my ability to create interactive applications and implement essential programming concepts.
+The "Works" section showcases a couple of my projects. It includes a simple calculator and a snake game (dummy project ), calculator built using JavaScript. These projects highlight my ability to create interactive applications and implement essential programming concepts.
 
 ## Contact
 
